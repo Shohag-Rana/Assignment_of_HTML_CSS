@@ -1,0 +1,70 @@
+.document-section-1{
+    background-image: url("../images/document_pic1.jpg");
+    height: 200px;
+    opacity: 0.8;
+}
+
+.document-section-2{
+    background-image: url("../images/document_pic2.jpg");
+    height: 200px;
+    opacity: 0.8;
+}
+.document-section-3{
+    background-image: url("../images/document_pic3.jpg");
+    height: 200px;
+    opacity: 0.8;
+}
+.document-section-1:hover, .document-section-2:hover, .document-section-3:hover{
+    opacity: 1;
+}
+.document-section-1:hover h4{
+    opacity: 1;
+    color: black;
+}
+.paragraph-content{
+    margin-top: 70px;
+    padding-left: 15px;
+}
+.rent-owner{
+    background-image: url("../images/rent_owner.jpg");
+    padding: 95px 12px;
+    width: 80%;
+}
+.rent-owner:hover{
+    background-image: url("../images/section_background_image2.jpg");
+}
+.rent-owner2{
+    background-image: url("../images/rent_owner2.jpg");
+    padding: 95px 12px;
+    width: 80%;
+}
+.rent-owner2:hover{
+    background-image: url("../images/section_background_image4.jpg");
+}
+.heading-text-info{
+    margin-left: -50px; padding: 0;
+}
+.writer-text{
+    font-size: 15px;margin-left: -50px; margin-bottom: 15px;
+}
+.staff-writer p{
+    margin-bottom: 0px !important;
+}
+.perfect-vacation{
+    height: 230px;
+    padding: 10px 35px;
+    background-color: rgb(15, 15, 63);
+    color: rgb(201, 134, 47);
+}
+.adventure-section{
+    height: 200px;
+}
+.category-list{
+    color: green;
+    font-size: 20px;
+    margin: 5px !important;
+    letter-spacing: 0.2px;
+}
+.document-feature{
+    margin-top: -15px;
+}
