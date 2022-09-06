@@ -1,4 +1,12 @@
 @media only screen and (max-width: 600px) {
+    .adventure_image1{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .adventure_image4{
+        width: 100%;
+        margin-right: 0%;
+    }
     .navbar {
         padding: 20px 10px 15px 10px;
         text-align: center;
@@ -190,6 +198,14 @@ margin-top: 33px;
 padding: 2px 8px;
 margin-left: -207px;
     }
+    .adventure_image1{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .adventure_image4{
+        width: 100%;
+        margin-right: 0%;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
@@ -257,6 +273,14 @@ margin-left: -207px;
 
     .copy-right p {
         float: none !important;
+    }
+    .adventure_image1{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .adventure_image4{
+        width: 100%;
+        margin-right: 0%;
     }
 }
 @media screen and (min-width: 993px) and (max-width: 1200px) {

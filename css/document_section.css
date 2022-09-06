@@ -59,6 +59,29 @@
 .adventure-section{
     height: 200px;
 }
+.adventure_image1{
+    background-image: url("../images/document_pic2.jpg");
+    height: 200px;
+    width: 94%;
+    margin-left: 6%;
+}
+.adventure_image2{
+    background-image: url("../images/document_pic1.jpg");
+    height: 200px;
+    width: 100%;
+}
+.adventure_image3{
+    background-image: url("../images/document_pic3.jpg");
+    height: 200px;
+    width: 100%;
+}
+.adventure_image4{
+    background-image: url("../images/section_background_image2.jpg");
+    height: 200px;
+    width: 100%;
+    width: 94%;
+    margin-right: 6%;
+}
 .category-list{
     color: green;
     font-size: 20px;
